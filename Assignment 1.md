@@ -4,7 +4,7 @@ Gabi Burgin; February 22
 
 ## Problem Statement
 
-DTP Vaccination rates are essential to the decrease of neonatal fatality and nine countries are left with less than 50 percent coverage. Ukraine is one of the nine countries with extremely low DTP vaccination rates and is under alert for being a country with poor immuinization provision and high infantile mortatlity.
+DTP Vaccination rates are essential to the decrease of neonatal fatality and nine countries are left with less than 50 percent coverage. Ukraine is one of the nine countries with extremely low DTP vaccination rates and is under alert for being a country with poor immuinization provision, high infantile mortatlity, and negligent human development.
 
 ## 1. Vaccination and Immunization Statistics. (2019, July). Retrieved from https://data.unicef.org/topic/child-health/immunization/
 
