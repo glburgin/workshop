@@ -1,6 +1,8 @@
 # Assignment 1
 
-Gabi Burgin; February 22
+Gabi Burgin
+February 23
+Data Science COLL 150
 
 ## Problem Statement
 
