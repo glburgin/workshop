@@ -10,7 +10,7 @@ Here is a brief bio about me. I like anything health and fitness, medicine, and 
 
 [Blumenstock response](https://glburgin.github.io/workshop/Blumenstock) (Jan.27)
 
-[Jahan and Rosling response](https://github.com/glburgin/workshop/blob/master/Selim%20Jahan%20and%20Rosling%20Response.md) 
+[Jahan and Rosling response](https://glburgin.github.io/workshop/Selim%20_Jahan_%20and_%20Rosling_Response) 
 (Feb.3)
 
 [Owen Barder response](https://github.com/glburgin/workshop/blob/master/Owen%20Barder%20Response.md) (Feb.17)
