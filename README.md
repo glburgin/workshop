@@ -15,7 +15,7 @@ Here is a brief bio about me. I like anything health and fitness, medicine, and 
 
 [Owen Barder response](https://glburgin.github.io/workshop/Owen_Barder_Response) (Feb.17)
 
-[Anderson and Kitchin response]
+[Anderson and Kitchin response](https://glburgin.github.io/workshop/Anderson_Kitchin_Response) (Feb.24)
 
 # Assignments
 
