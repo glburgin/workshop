@@ -19,4 +19,4 @@ Here is a brief bio about me. I like anything health and fitness, medicine, and 
 
 # Assignments
 
-[Assignment_1 Annotated Bibliograpy](https://github.com/glburgin/workshop/blob/master/Assignment%201.md) (Feb.23) 
+[Assignment_1 Annotated Bibliograpy](https://glburgin.github.io/workshop/Assignment_1) (Feb.23) 
