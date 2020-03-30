@@ -17,6 +17,8 @@ Here is a brief bio about me. I like anything health and fitness, medicine, and 
 
 [Anderson and Kitchin response](https://glburgin.github.io/workshop/Anderson_Kitchin_Response) (Feb.24)
 
+[Stevens Response](https://glburgin.github.io/workshop/Stevens.Response) (March.25)
+
 # Assignments
 
 [Assignment_1 Annotated Bibliograpy](https://glburgin.github.io/workshop/Assignment_1) (Feb.23) 
