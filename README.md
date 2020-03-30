@@ -19,6 +19,8 @@ Here is a brief bio about me. I like anything health and fitness, medicine, and 
 
 [Stevens Response](https://glburgin.github.io/workshop/Stevens.Response) (March.25)
 
+[Nieves Response](https://glburgin.github.io/workshop/Nieves.Response) (March. 30)
+
 # Assignments
 
 [Assignment_1 Annotated Bibliograpy](https://glburgin.github.io/workshop/Assignment_1) (Feb.23) 
