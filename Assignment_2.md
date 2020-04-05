@@ -31,7 +31,7 @@ To begin the process of mapping vaccination coverage, the desired location neede
 
 [3] As you can see in this image, a mapped estimation of the DTP vaccination coverage in the Democratic Republic of the Congo was created. The red colors correlate to zero percent DTP coverage whereas the green colors correlate to one-hundred percent DTP coverage. A scale from red to green has been provided. The three maps relate to the difference in DTP vaccination coverage in children under the age of five years old from 2013-2014 in the DRC.
 
-![Image 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456602/bin/41467_2019_9611_Fig1_HTML.jpg)
+![Image 2](https://glburgin.github.io/workshop/Screen%20Shot%202020-04-05%20at%201.06.02%20PM.png)
 
 [2] These images are mapped estimates of the DTP vaccination coverage in Sub-Saharan Africa from 2000-2016. The farthest image on the left is in 2000 while the farthest image on the right is in 2016. The white colors represent vaccine coverage while the black colors represent an absence in the DTP vaccine. As you can see, throughout the sixteen years, there is substantially more white at the end of the sixteen years rather than at the beginning, showing an increase in DTP vaccination coverage in Sub-Saharan Africa.
 
