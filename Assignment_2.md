@@ -27,7 +27,7 @@ From the years 2000-2016, mapped estimates of the DTP vaccination coverage in Su
 
 To begin the process of mapping vaccination coverage, the desired location needed to be selected (for the purpose of this study, it was countries in Sub-Saharan Africa). Upon selecting a location, data needed to be gathered. Demographic and Health Surveys Data were used to generate the geospatial maps. Some of the surveys were used to determine whether or not immunization records existed in households. This would lead to the presence or absence of the DTP vaccine. In the case that vaccination cards didn’t exist, maternal recall would then be referenced to determine whether or not a newborn had received the DTP vaccination [2]. Upon collecting survey data, certain covariates were selected to be studied from country to country (travel time, aridity, distance to urban areas, and livestock density for example) [3]. These covariates were then turned into 1x1km [2] and 5x5km [3] spatial resolutions.
 
-![Image 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456602/bin/41467_2019_9611_Fig1_HTML.jpg)
+![Image 1](https://glburgin.github.io/workshop/Screen%20Shot%202020-04-05%20at%2011.18.21%20AM.png)
 
 [3] As you can see in this image, a mapped estimation of the DTP vaccination coverage in the Democratic Republic of the Congo was created. The red colors correlate to zero percent DTP coverage whereas the green colors correlate to one-hundred percent DTP coverage. A scale from red to green has been provided. The three maps relate to the difference in DTP vaccination coverage in children under the age of five years old from 2013-2014 in the DRC.
 
